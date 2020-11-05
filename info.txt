@@ -1,0 +1,8 @@
+Name: Unitpay Gateway;
+Parent Addon: user-balance;
+Version: 1.5.1;
+Support Core: 16.24.0;
+ItemID: 10437;
+Description: Подключение сайта к платежному агрегатору Unitpay https://unitpay.ru (ФЗ-54);
+Author: Плечёв Андрей;
+Author URI: http://codeseller.ru/;
